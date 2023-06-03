@@ -1,0 +1,176 @@
+.ho{
+    background-color: rgb(51,152,204);
+    display: flex;
+}
+h1{
+    margin-left: 10px;
+    padding-top: 10px;
+    color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 1cm;
+font-style: normal;
+font-weight: 100;
+}
+nav{
+  
+    background-color: rgb(41, 35, 35);
+    margin: 0%;
+    padding: 0%;
+   
+  
+}
+ul{
+    list-style-type: none;
+    margin: 0cm;
+    padding: 0cm;
+    border: 0cm;
+}
+li{
+    display: inline-flex;
+    margin: 0%;
+    font-size: 20px;
+    padding: 0cm;
+    border: 0px;
+}
+.kev{
+    display:inline-flex;
+    margin-left: 10px;
+    margin-bottom: 0cm;
+    border-top: 10px;
+    border-color:white ;
+    background-color: rgb(255,153,0);
+    border-left: 3px;
+    border-left: 3px solid white;
+    padding: 4px;
+
+}
+
+.hlo{
+
+    right: -46px;
+    margin-left: 10px;
+    padding: 0%;
+    background-color: transparent;
+    color: white;
+    font-size: larger;
+   
+   
+
+}
+
+.r{
+   
+    left: 30px;
+    display: inline-block;
+    margin-top: 20px;
+    border-color: rgb(182,176,176);
+    border-width: 10px;
+}
+.q{
+    display: inline-block;
+   margin-left: 100px;
+ margin-bottom: 20px;
+
+}
+
+.k{
+    
+  
+    background-color:white;
+    border width:1px;
+    border-style:solid;
+    border-color: rgb(248,248,248);
+    
+    
+    padding: 20px;
+    
+}
+.l{
+    
+    background-color:rgb(207,231,243)
+    ;
+    border width:1px;
+    border-style:solid;
+    border-color: rgb(248,248,248);
+    border-top:0cm;
+    
+    padding: 20px;
+
+}
+.z{
+    
+    background-color:white
+    ;
+    border width: 0.1em;
+    border-style:solid;
+    border-color: rgb(248,248,248);
+    border-top:0cm;
+  
+    padding: 20px;
+
+}
+.s{
+    flex-direction: row-reverse;
+    position: absolute;
+  margin: 0cm;
+  margin-left: 180px;
+  margin-top: 5px;
+
+}
+.sep{
+    padding: 0%;
+    background-color:transparent;
+    border: 0cm;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    
+}
+.ed{
+    display: inline-block;
+   
+   
+}
+.del{
+ margin: 0;
+    display: inline-block;
+}
+.deletee{
+    margin: 0%;
+    padding-bottom: 30px;
+    display: inline-block;
+  
+}
+h4{
+    padding: 0cm;
+    margin-bottom: 0cm;
+    margin-top: 29px;
+}
+.low{
+    position: relative;
+    float: right;
+    padding: 4px;
+    margin:0cm;
+    right: 20px;
+}
+
+.tel{
+display: list-item;
+margin-left: 66px; 
+font-size: large;
+}
+.pin{
+    margin-left: 66px;
+    font-size: large;
+}
+.hyd{
+    font-size: large;
+}
+h2{
+    padding-top: 0cm;
+    margin-top: 0cm;
+
+}
+#section{
+    display: flex;
+}
